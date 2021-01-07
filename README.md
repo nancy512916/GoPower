@@ -16,6 +16,7 @@
 * 導覽列文字隨網頁位址換色
 * 以jQuery的modal來呈現課程簡介
 * CSS動畫讓滑過的圖片高亮
+* 以Bootstrap的jumborton製作頁尾
 
 ## 其他
 #### 開發環境
